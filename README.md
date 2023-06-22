@@ -1,2 +1,2 @@
-# spring-boot-app-base
+# spring-boot-app
 An application using springboot
